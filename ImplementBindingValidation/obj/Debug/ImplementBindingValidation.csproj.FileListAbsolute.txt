@@ -1,0 +1,17 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.csproj.AssemblyReference.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\bin\Debug\ImplementBindingValidation.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\bin\Debug\ImplementBindingValidation.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\bin\Debug\ImplementBindingValidation.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementBindingValidation\obj\Debug\ImplementBindingValidation.pdb

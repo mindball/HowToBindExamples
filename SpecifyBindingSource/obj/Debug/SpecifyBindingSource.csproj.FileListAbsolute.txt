@@ -1,0 +1,16 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\bin\Debug\SpecifyBindingSource.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\bin\Debug\SpecifyBindingSource.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\bin\Debug\SpecifyBindingSource.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\SpecifyBindingSource\obj\Debug\SpecifyBindingSource.pdb

@@ -1,0 +1,17 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\bin\Debug\ImplementValidationLogicОnCustomObjects.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\bin\Debug\ImplementValidationLogicОnCustomObjects.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\bin\Debug\ImplementValidationLogicОnCustomObjects.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementValidationLogicОnCustomObjects\obj\Debug\ImplementValidationLogicОnCustomObjects.csproj.AssemblyReference.cache

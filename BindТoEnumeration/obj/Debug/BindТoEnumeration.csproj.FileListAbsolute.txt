@@ -1,0 +1,15 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\bin\Debug\BindТoEnumeration.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\bin\Debug\BindТoEnumeration.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\bin\Debug\BindТoEnumeration.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\BindТoEnumeration\obj\Debug\BindТoEnumeration.pdb

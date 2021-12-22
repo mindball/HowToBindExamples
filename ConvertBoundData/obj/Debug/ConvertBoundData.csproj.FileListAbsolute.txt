@@ -1,0 +1,17 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\bin\Debug\ConvertBoundData.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\bin\Debug\ConvertBoundData.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\bin\Debug\ConvertBoundData.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.csproj.AssemblyReference.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ConvertBoundData\obj\Debug\ConvertBoundData.pdb

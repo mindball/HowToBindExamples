@@ -1,0 +1,16 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\bin\Debug\BindingHowTo.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\bin\Debug\BindingHowTo.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\bin\Debug\BindingHowTo.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\BindingHowTo\obj\Debug\BindingHowTo.pdb

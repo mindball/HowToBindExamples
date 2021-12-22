@@ -1,0 +1,17 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\bin\Debug\ImplementCompositeCollection.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\bin\Debug\ImplementCompositeCollection.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\bin\Debug\ImplementCompositeCollection.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.csproj.AssemblyReference.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ImplementCompositeCollection\obj\Debug\ImplementCompositeCollection.pdb

@@ -1,0 +1,16 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\bin\Debug\ControlWhenTextBoxTextUpdatesSource.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\bin\Debug\ControlWhenTextBoxTextUpdatesSource.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\bin\Debug\ControlWhenTextBoxTextUpdatesSource.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\ControlWhenTextBoxTextUpdatesSource\obj\Debug\ControlWhenTextBoxTextUpdatesSource.csproj.CoreCompileInputs.cache

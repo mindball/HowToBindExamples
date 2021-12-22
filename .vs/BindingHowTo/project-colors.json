@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8840586b-c111-4e1d-82e3-0495b3248b84": {
+      "ProjectGuid": "8840586b-c111-4e1d-82e3-0495b3248b84",
+      "DisplayName": "BindingHowTo",
+      "ColorIndex": 0
+    },
+    "b9d967ae-ec30-4165-96e1-6dec8c6e8543": {
+      "ProjectGuid": "b9d967ae-ec30-4165-96e1-6dec8c6e8543",
+      "DisplayName": "SpecifyBindingSource",
+      "ColorIndex": 1
+    },
+    "454fb113-56ae-4fd6-920c-8cb17eeedb21": {
+      "ProjectGuid": "454fb113-56ae-4fd6-920c-8cb17eeedb21",
+      "DisplayName": "MakeDataAvailableFoBinding",
+      "ColorIndex": 2
+    },
+    "4a157b2e-aca3-4603-be35-2725208c3ce9": {
+      "ProjectGuid": "4a157b2e-aca3-4603-be35-2725208c3ce9",
+      "DisplayName": "ControlWhenTextBoxTextUpdatesSource",
+      "ColorIndex": 3
+    },
+    "9acbcf7b-0eed-4f87-a82d-8cd19fecf3c2": {
+      "ProjectGuid": "9acbcf7b-0eed-4f87-a82d-8cd19fecf3c2",
+      "DisplayName": "BindToCollectionAndDisplayInformationBasedOnSelection",
+      "ColorIndex": 4
+    },
+    "703773e3-acf3-4795-96cf-0d7c804b53bf": {
+      "ProjectGuid": "703773e3-acf3-4795-96cf-0d7c804b53bf",
+      "DisplayName": "BindТoEnumeration",
+      "ColorIndex": 5
+    },
+    "736cdd0a-c71d-45ee-aa0f-abd70b45764b": {
+      "ProjectGuid": "736cdd0a-c71d-45ee-aa0f-abd70b45764b",
+      "DisplayName": "BindThePropertiesOfTwoControls",
+      "ColorIndex": 6
+    },
+    "72ed37bc-e72e-408e-8a8f-17c47734c8c0": {
+      "ProjectGuid": "72ed37bc-e72e-408e-8a8f-17c47734c8c0",
+      "DisplayName": "ImplementBindingValidation",
+      "ColorIndex": 7
+    },
+    "6fa155cb-a660-4525-8700-e27169c78ea2": {
+      "ProjectGuid": "6fa155cb-a660-4525-8700-e27169c78ea2",
+      "DisplayName": "ImplementValidationLogicОnCustomObjects",
+      "ColorIndex": 8
+    },
+    "a0e2d022-a1e5-4b5b-bbbf-bceca529a495": {
+      "ProjectGuid": "a0e2d022-a1e5-4b5b-bbbf-bceca529a495",
+      "DisplayName": "ImplementCompositeCollection",
+      "ColorIndex": 9
+    },
+    "25ab53f1-04c7-4d32-9bf5-de2f7244ba95": {
+      "ProjectGuid": "25ab53f1-04c7-4d32-9bf5-de2f7244ba95",
+      "DisplayName": "ConvertBoundData",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

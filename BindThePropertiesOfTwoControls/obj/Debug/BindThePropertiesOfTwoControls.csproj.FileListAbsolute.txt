@@ -1,0 +1,15 @@
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\bin\Debug\BindThePropertiesOfTwoControls.exe.config
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\bin\Debug\BindThePropertiesOfTwoControls.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\bin\Debug\BindThePropertiesOfTwoControls.pdb
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls.csproj.SuggestedBindingRedirects.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\MainWindow.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\App.g.cs
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls_MarkupCompile.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls_MarkupCompile.lref
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\MainWindow.baml
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls.g.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls.Properties.Resources.resources
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls.csproj.GenerateResource.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls.csproj.CoreCompileInputs.cache
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls.exe
+C:\Users\oilaripi\source\repos\BindingHowTo\BindThePropertiesOfTwoControls\obj\Debug\BindThePropertiesOfTwoControls.pdb
