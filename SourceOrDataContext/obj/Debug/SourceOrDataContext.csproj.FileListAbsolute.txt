@@ -1,0 +1,17 @@
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\bin\Debug\SourceOrDataContext.exe.config
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\bin\Debug\SourceOrDataContext.exe
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\bin\Debug\SourceOrDataContext.pdb
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.csproj.AssemblyReference.cache
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.csproj.SuggestedBindingRedirects.cache
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\MainWindow.g.cs
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\App.g.cs
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext_MarkupCompile.cache
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext_MarkupCompile.lref
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\MainWindow.baml
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.g.resources
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.Properties.Resources.resources
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.csproj.GenerateResource.cache
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.csproj.CoreCompileInputs.cache
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.exe
+D:\BindingHowTo\HowToBindExamples\SourceOrDataContext\obj\Debug\SourceOrDataContext.pdb

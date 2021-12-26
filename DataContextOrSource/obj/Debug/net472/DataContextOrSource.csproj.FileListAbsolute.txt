@@ -1,0 +1,7 @@
+D:\BindingHowTo\HowToBindExamples\DataContextOrSource\obj\Debug\net472\DataContextOrSource.csproj.AssemblyReference.cache
+D:\BindingHowTo\HowToBindExamples\DataContextOrSource\obj\Debug\net472\DataContextOrSource.csproj.SuggestedBindingRedirects.cache
+D:\BindingHowTo\HowToBindExamples\DataContextOrSource\obj\Debug\net472\App.g.cs
+D:\BindingHowTo\HowToBindExamples\DataContextOrSource\obj\Debug\net472\DataContextOrSource_MarkupCompile.cache
+D:\BindingHowTo\HowToBindExamples\DataContextOrSource\obj\Debug\net472\MainWindow.g.cs
+D:\BindingHowTo\HowToBindExamples\DataContextOrSource\obj\Debug\net472\GeneratedInternalTypeHelper.g.cs
+D:\BindingHowTo\HowToBindExamples\DataContextOrSource\obj\Debug\net472\DataContextOrSource_MarkupCompile.lref
