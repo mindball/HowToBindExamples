@@ -24,5 +24,20 @@ namespace ImplementCompositeCollection
         {
             InitializeComponent();
         }
+
+        private void SetItem(object sender, RoutedEventArgs e)
+        {
+            
+            ListBoxItem lbi2 = (ListBoxItem)(myListBox.ItemContainerGenerator.ContainerFromItem(myListBox.Items.CurrentItem));
+
+            ListBoxItem lbi1 = (ListBoxItem)(myListBox.ItemContainerGenerator.ContainerFromIndex(0));
+
+            GreekGod greekGod = (GreekGod)myListBox.SelectedItem;
+
+            if (greekGod == null) return;
+            MessageBox.Show(greekGod.Name);
+
+            ;
+        }    
     }
 }
