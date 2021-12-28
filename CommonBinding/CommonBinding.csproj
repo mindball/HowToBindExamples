@@ -65,6 +65,10 @@
     <Compile Include="ChangeTheLayoutOfAnItemsControl\Window1.xaml.cs">
       <DependentUpon>Window1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DataBoundBarGraph\DataSource.cs" />
+    <Compile Include="DataBoundBarGraph\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DifferenceSelectedValueAndSelectedItem\GreekGod.cs" />
     <Compile Include="DifferenceSelectedValueAndSelectedItem\GreekGods.cs" />
     <Compile Include="DifferenceSelectedValueAndSelectedItem\Window1.xaml.cs">
@@ -80,6 +84,27 @@
     <Compile Include="GetListBoxItemfromdataboundListBox\Window1.xaml.cs">
       <DependentUpon>Window1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MasterDetailThreeLevels\Mountains.cs" />
+    <Compile Include="MasterDetailThreeLevels\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MasterDetail\Planet.cs" />
+    <Compile Include="MasterDetail\SolarSystemPlanets.cs" />
+    <Compile Include="MasterDetail\StringToImageSourceConverter.cs" />
+    <Compile Include="MasterDetail\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SortingGroups\Animal.cs" />
+    <Compile Include="SortingGroups\Animals.cs" />
+    <Compile Include="SortingGroups\Category.cs" />
+    <Compile Include="SortingGroups\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SyncSelectionOfTwoDataBoundListBoxes\GreekGod.cs" />
+    <Compile Include="SyncSelectionOfTwoDataBoundListBoxes\GreekGods.cs" />
+    <Compile Include="SyncSelectionOfTwoDataBoundListBoxes\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
     <Compile Include="WhatBindingMean\GreekGod.cs" />
     <Compile Include="WhatBindingMean\Window1.xaml.cs">
       <DependentUpon>Window1.xaml</DependentUpon>
@@ -89,6 +114,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ChangeTheLayoutOfAnItemsControl\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DataBoundBarGraph\Window1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -124,6 +153,22 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="MasterDetailThreeLevels\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MasterDetail\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SortingGroups\Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SyncSelectionOfTwoDataBoundListBoxes\Window1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="WhatBindingMean\Window1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -150,16 +195,26 @@
     <None Include="ChangeTheLayoutOfAnItemsControl\Readme.md" />
     <None Include="DataContextOrSource\Readme.md" />
     <None Include="DifferenceSelectedValueAndSelectedItem\Readme.md" />
+    <None Include="MasterDetailThreeLevels\Readme.md" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <None Include="Readme.md" />
+    <None Include="SyncSelectionOfTwoDataBoundListBoxes\Readme.md" />
     <None Include="WhatBindingMean\Readme.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="MasterDetail\merglobe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MasterDetail\venglobe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MasterDetail\earglobe.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

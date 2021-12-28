@@ -1,0 +1,49 @@
+﻿<Window x:Class="CommonBinding.MasterDetail.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommonBinding.MasterDetail"
+        mc:Ignorable="d"
+        Title="Window1" 
+        SizeToContent="WidthAndHeight">
+ 
+    <Window.Resources>
+        <local:SolarSystemPlanets x:Key="solarPlanets" />
+        <local:StringToImageSourceConverter x:Key="stringToImageSource"  />
+
+        <CollectionViewSource Source="{StaticResource solarPlanets}" x:Key="cvs" />
+        
+        <DataTemplate x:Key="detailTemplate">
+            <Border BorderBrush="Black" BorderThickness="1" Padding="5" >
+                <Grid Width="200" Height="200">
+                    <Image Source="{Binding Path=Image, Converter={StaticResource stringToImageSource}}" />
+                    <StackPanel Background="#A0FFFFFF" VerticalAlignment="Bottom">
+                        <StackPanel Orientation="Horizontal" Margin="5,5,5,0">
+                            <TextBlock Text="Orbit:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Path=Diameter}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="5,0,5,0">
+                            <TextBlock Text="Diameter:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Path=Orbit}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="5,0,5,5">
+                            <TextBlock Text="Mass:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Path=Mass}" />
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </DataTemplate>
+    </Window.Resources>
+
+    <Border Margin="30" BorderBrush="Blue" BorderThickness="2" Padding="10" >
+        <StackPanel Orientation="Horizontal">
+            <!-- master -->
+            <ListBox ItemsSource="{Binding Source={StaticResource cvs}}" DisplayMemberPath="Name" Padding="5" Margin="0,0,5,0"/>
+            <!-- detail -->
+            <ContentControl ContentTemplate="{StaticResource detailTemplate}" Content="{Binding Source={StaticResource cvs}}" />
+        </StackPanel>
+    </Border> 
+    
+</Window>

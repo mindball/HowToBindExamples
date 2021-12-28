@@ -66,6 +66,30 @@ namespace CommonBinding
         {
             CommonBinding.ChangeTheLayoutOfAnItemsControl.Window1 wnd = new ChangeTheLayoutOfAnItemsControl.Window1();
             wnd.Show();
+        }   
+
+        private void SyncSelectionOfTwoDataBoundListBoxes_Click(object sender, RoutedEventArgs e)
+        {
+            CommonBinding.SyncSelectionOfTwoDataBoundListBoxes.Window1 wnd = new SyncSelectionOfTwoDataBoundListBoxes.Window1();
+            wnd.Show();
+        }
+
+        private void MasterDetail_Click(object sender, RoutedEventArgs e)
+        {
+            CommonBinding.MasterDetail.Window1 wnd = new MasterDetail.Window1();
+            wnd.Show();
+        }
+
+        private void MasterDetailThreeLevels_Click(object sender, RoutedEventArgs e)
+        {
+            CommonBinding.MasterDetailThreeLevels.Window1 wnd = new MasterDetailThreeLevels.Window1();
+            wnd.Show();
+        }
+
+        private void SortingGroups_Click(object sender, RoutedEventArgs e)
+        {
+            CommonBinding.SortingGroups.Window1 wnd = new SortingGroups.Window1();
+            wnd.Show();
         }
     }
 }

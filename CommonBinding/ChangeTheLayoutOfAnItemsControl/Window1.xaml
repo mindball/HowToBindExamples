@@ -29,8 +29,8 @@
 
             <ListBox ItemsSource="{StaticResource gooss}" ItemTemplate="{StaticResource greekGodDataTemplate}" Margin="10">
                 <ListBox.ItemsPanel>
-                    <StackPanel Orientation="Horizontal" />
-                </ListBox.ItemsPanel>
+                   <StackPanel Orientation="Horizontal" />
+                </ListBox.ItemsPanel>-->
             </ListBox>
 
             <ListBox ItemsSource="{StaticResource gooss}" Template="{StaticResource listBoxControlTemplate}" ItemTemplate="{StaticResource greekGodDataTemplate}" />

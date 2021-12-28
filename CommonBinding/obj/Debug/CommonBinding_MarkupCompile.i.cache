@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\BindingHowTo\HowToBindExamples\CommonBinding\App.xaml
-8-1837994594
+13243403924
 
-25939063888
+40-61972858
 13-1310406943
-BindItemsOfComboBox\Window1.xaml;ChangeTheLayoutOfAnItemsControl\Window1.xaml;DataContextOrSource\Window1.xaml;DifferenceSelectedValueAndSelectedItem\Window1.xaml;DisplayMemberPath\Window1.xaml;GetListBoxItemfromdataboundListBox\Window1.xaml;MainWindow.xaml;WhatBindingMean\Window1.xaml;
+BindItemsOfComboBox\Window1.xaml;ChangeTheLayoutOfAnItemsControl\Window1.xaml;DataBoundBarGraph\Window1.xaml;DataContextOrSource\Window1.xaml;DifferenceSelectedValueAndSelectedItem\Window1.xaml;DisplayMemberPath\Window1.xaml;GetListBoxItemfromdataboundListBox\Window1.xaml;MainWindow.xaml;MasterDetailThreeLevels\Window1.xaml;MasterDetail\Window1.xaml;SortingGroups\Window1.xaml;SyncSelectionOfTwoDataBoundListBoxes\Window1.xaml;WhatBindingMean\Window1.xaml;
 
 True
 

@@ -13,6 +13,10 @@
         <Button x:Name="bindItemsOfComboBox" Click="BindItemsOfComboBox_Click" Content="BindItemsOfComboBox" Margin="5" Width="230"/>
         <Button x:Name="displayMemberPath" Click="DisplayMemberPath_Click" Content="displayMemberPath" Margin="5" Width="230"/>
         <Button x:Name="differenceSelectedValueAndSelectedItem" Click="DifferenceSelectedValueAndSelectedItem_Click" Content="DifferenceSelectedValueAndSelectedItem" Margin="5" Width="230"/>
-        <Button x:Name="changeTheLayoutOfAnItemsControl" Click="ChangeTheLayoutOfAnItemsControl_Click" Content="ChangeTheLayoutOfAnItemsControl" Margin="5" Width="230"/>
+        <Button x:Name="hangeTheLayoutOfAnItemsControl" Click="ChangeTheLayoutOfAnItemsControl_Click" Content="ChangeTheLayoutOfAnItemsControl" Margin="5" Width="230"/>
+        <Button x:Name="SyncSelectionOfTwoDataBoundListBoxes" Click="SyncSelectionOfTwoDataBoundListBoxes_Click" Content="SyncSelectionOfTwoDataBoundListBoxes" Margin="5" Width="230"/>
+        <Button x:Name="MasterDetail" Click="MasterDetail_Click" Content="MasterDetail" Margin="5" Width="230"/>
+        <Button x:Name="MasterDetailThreeLevels" Click="MasterDetailThreeLevels_Click" Content="MasterDetailThreeLevels" Margin="5" Width="230"/>
+        <Button x:Name="SortingGroups" Click="SortingGroups_Click" Content="SortingGroups" Margin="5" Width="230"/>
     </StackPanel>
 </Window>

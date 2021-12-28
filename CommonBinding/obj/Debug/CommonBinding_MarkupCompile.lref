@@ -1,11 +1,16 @@
 ﻿
 
-FD:\BindingHowTo\HowToBindExamples\CommonBinding\DataContextOrSource\Window1.xaml;;
-FD:\BindingHowTo\HowToBindExamples\CommonBinding\MainWindow.xaml;;
-FD:\BindingHowTo\HowToBindExamples\CommonBinding\WhatBindingMean\Window1.xaml;;
-FD:\BindingHowTo\HowToBindExamples\CommonBinding\GetListBoxItemfromdataboundListBox\Window1.xaml;;
 FD:\BindingHowTo\HowToBindExamples\CommonBinding\BindItemsOfComboBox\Window1.xaml;;
-FD:\BindingHowTo\HowToBindExamples\CommonBinding\DisplayMemberPath\Window1.xaml;;
-FD:\BindingHowTo\HowToBindExamples\CommonBinding\DifferenceSelectedValueAndSelectedItem\Window1.xaml;;
 FD:\BindingHowTo\HowToBindExamples\CommonBinding\ChangeTheLayoutOfAnItemsControl\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\DataBoundBarGraph\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\DataContextOrSource\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\DifferenceSelectedValueAndSelectedItem\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\DisplayMemberPath\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\GetListBoxItemfromdataboundListBox\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\MainWindow.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\MasterDetailThreeLevels\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\MasterDetail\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\SortingGroups\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\SyncSelectionOfTwoDataBoundListBoxes\Window1.xaml;;
+FD:\BindingHowTo\HowToBindExamples\CommonBinding\WhatBindingMean\Window1.xaml;;
 
